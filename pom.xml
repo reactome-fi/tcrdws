@@ -95,7 +95,7 @@
 				the error: The server time zone value 'PDT' is unrecognized -->
 			<!-- Add the following line in /etc/my.cnf: default_time_zone = '-7:00'. 
 				So there is no need to do the above, which should be done after mysql (re)starts. -->
-			<version>6.0.6</version>
+			<version>8.0.16</version>
 		</dependency>
 		<!-- Jackson API for JSON -->
 		<dependency>
